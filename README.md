@@ -1,6 +1,6 @@
 # Intro
 
-* Matt(hew) Lucas (soon to be Lucas-Clarke once I start updating things)
+* Matt(hew) Lucas-Clarke (formerly Lucas, yes like Matt Lucas)
 * Member of an internal Red Team from April 2024, opinions etc my own
 * ex-MWR/F-Secure/WithSecure 2020-2024, UK team lead for Attack Path Mapping for ~1 year
 * Oxford Physics MPhys 2020, don't ask me to remember any physics

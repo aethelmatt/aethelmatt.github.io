@@ -4,7 +4,8 @@
 * Member of an internal Red Team from April 2024, opinions etc my own
 * ex-MWR/F-Secure/WithSecure 2020-2024, UK team lead for Attack Path Mapping for ~1 year
 * Oxford Physics MPhys 2020, don't ask me to remember any physics
-* Aethelmatt is because I find the old Anglo-Saxon Aethelred/Aethelstan/Aethelwald names aesthetically pleasing 
+* Aethelmatt is because I find the old Anglo-Saxon Aethelred/Aethelstan/Aethelwald names aesthetically pleasing
+* [Linkedin](https://www.linkedin.com/in/matthew-l-b353b21bb/) 
 
 # Public work
 

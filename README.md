@@ -9,6 +9,7 @@
 
 # Public work
 
+* Introduction to macOS Red Teaming in 2026, presented with Victor at BSides Exeter (recording to come).
 * [Methods of Lateral Movement using Windows OpenSSH](https://www.youtube.com/watch?v=GuClX4Cjfao&t=2s&pp=ygUVbWF0dGhldyBsdWNhcyBvcGVuc3No), presented at SEC-T 2023 and BSides Cambridge 2023
 * [Performing and Preventing Attacks on Azure Cloud Environments through Azure DevOps](https://labs.withsecure.com/publications/performing-and-preventing-attacks-on-azure-cloud-environments-through-azure-devops) and the companion piece [Detecting Attacks against Azure DevOps](https://labs.withsecure.com/publications/detecting-attacks-against-azure-devops)
 * The Azure DevOps pieces were accurate at the time, but since cloud is so fast-moving I'd recommend cross-checking anything I've said there with more recent work/MS docs; I don't work there any more so I personally won't get to update that blog as MS moves on. Most recent piece I'm aware of is Brett Hawkins' [whitepaper](https://www.ibm.com/downloads/documents/us-en/10a99803d42fd1e5). 
